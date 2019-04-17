@@ -1,0 +1,26 @@
+body {
+    width: 1024px;
+    margin: auto;
+}
+
+.info {
+    display: inline-block;
+}
+
+.personal-info {
+    font-size: 1.5rem;
+}
+
+.info li {
+    list-style-type: none;
+}
+
+.photo {
+    width: 200px;
+    height: 200px;
+    float: right;
+}
+
+.footer {
+    margin: 20px;
+}
